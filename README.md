@@ -1,6 +1,6 @@
 # The Tech Blog
 ## Description
-Allows multiple to create accounts and add, edit and delete posts.
+Allows multiple users to create accounts and add, edit and delete posts.
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
